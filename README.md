@@ -7,7 +7,9 @@ It gets input from the user in the form of texts and the inputs will be converte
 
 <h1>Requirements</h1>
 
-This project requires pyttsx3
+<ul>
+ <li><a href ="https://pypi.org/project/pyttsx3/" target="_blank" rel="noreferrer noopener">Pyttsx3</a></li>
+</ul>
 
 <h4>Install Pyttsx3:</h4>
 
